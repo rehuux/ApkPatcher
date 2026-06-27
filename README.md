@@ -77,7 +77,7 @@ ApkPatcher-main/
 ### Linux/macOS
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ApkPatcher
+git clone https://github.com/rehuux/ApkPatcher
 cd ApkPatcher
 
 # Install dependencies
@@ -255,12 +255,8 @@ The developers assume no liability for any misuse of this tool.
 📞 Contact
 
 · GitHub Issues: Submit here
-· Email: your-email@example.com
-· Discord: YourDiscordName
-
-⭐ Star History
-
-https://api.star-history.com/svg?repos=yourusername/ApkPatcher&type=Date
+· Email: rehuonly@aol.com
+· Discord: @9yrs
 
 🙏 Acknowledgments
 
@@ -277,7 +273,7 @@ If you find this tool useful, please give it a ⭐!
 
 ---
 
-## 🏷️ **Tags for GitHub Repository**
+## 🏷️ **https://github.com/rehuux/ApkPatcher**
 
 ```
 
@@ -328,48 +324,8 @@ magisk
 - https://frida.re/docs/android/
 - https://developer.android.com/studio/command-line/zipalign
 
----
-
-## 🎨 **GitHub Badges (Add to README)**
-
-```markdown
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Termux-green.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.0-orange.svg)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ApkPatcher.svg?style=social)](https://github.com/yourusername/ApkPatcher/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ApkPatcher.svg?style=social)](https://github.com/yourusername/ApkPatcher/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/ApkPatcher.svg)](https://github.com/yourusername/ApkPatcher/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ApkPatcher.svg)](https://github.com/yourusername/ApkPatcher/pulls)
-```
-
----
-
-📝 YouTube Description (If Uploading)
-
-```
-🔧 ApkPatcher - Complete Android APK Modding Framework
-
-In this video, I'll show you ApkPatcher - a comprehensive Python-based tool for Android APK patching. 
-
-✨ Features Covered:
-- SSL Pinning Bypass
-- Flutter SSL Bypass
-- VPN Detection Removal
-- USB Debugging Hide
-- Screenshot Restriction Remove
-- Ads Removal
-- AES Logging Inject
-- Device Info Spoofing
-- Package Detection Bypass
-- Google Pairip Protection Bypass
-- Pine Hook Integration
-- Magisk Module Generation
-- Frida Script Generation
-
 📦 Installation:
-git clone https://github.com/yourusername/ApkPatcher
+git clone https://github.com/rehuux/ApkPatcher
 cd ApkPatcher
 pip install -r requirements.txt
 python APK_PATCHER.py -i app.apk --all
@@ -377,7 +333,7 @@ python APK_PATCHER.py -i app.apk --all
 ⚠️ Disclaimer: Educational purpose only!
 
 🔗 Links:
-GitHub: https://github.com/yourusername/ApkPatcher
+GitHub: https://github.com/rehuux/ApkPatcher
 Apktool: https://ibotpeaches.github.io/Apktool/
 Frida: https://frida.re/
 
